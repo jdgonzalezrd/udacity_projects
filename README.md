@@ -51,4 +51,4 @@ Make sure you have the required software and libraries installed. You can find t
 
 This project is licensed under the [MIT License](LICENSE.md).
 
-## Acknowledgments
+
